@@ -35,7 +35,7 @@ class HeaderWidget extends StatelessWidget {
         ),
         CircleAvatar(
           backgroundImage: NetworkImage(
-            user.profileImage ?? "assets/pp.jpg",
+            user.profileImage ?? "assets/berita.png",
           ),
         ),
       ],
@@ -166,7 +166,7 @@ class ExpandedSectionWidget extends StatelessWidget {
                 color: Colors.blue,
                 image: const DecorationImage(
                   image: NetworkImage(
-                    "assets/rmh.jpg",
+                    "https://i.postimg.cc/tCmZMNDx/berita.png",
                   ),
                   fit: BoxFit.cover,
                 ),
@@ -183,7 +183,7 @@ class ExpandedSectionWidget extends StatelessWidget {
                 child: Padding(
                   padding: EdgeInsets.all(8.0),
                   child: Text(
-                    "HARGA RUMAH SEMAKIN MAHAL, BAGAIMANA NASIB MASYARAKAT YANG INGIN MEMILIKI RUMAH? ",
+                    "",
                     style: TextStyle(
                       color: Color.fromARGB(255, 243, 239, 239),
                       fontSize: 17,
@@ -292,7 +292,7 @@ class ConstrainedBoxWidget extends StatelessWidget {
                                 ),
                                 image: DecorationImage(
                                   image: NetworkImage(
-                                    "assets/rumah.jpg",
+                                    "https://i.postimg.cc/sfT43SwV/narkoba.jpg",
                                   ),
                                 ),
                               ),
@@ -304,7 +304,7 @@ class ConstrainedBoxWidget extends StatelessWidget {
                               child: Padding(
                                 padding: EdgeInsets.all(8.0),
                                 child: Text(
-                                  "Telah hadir sebuah aplikasi untuk sistem prediksi harga rumah yang membuat para pencari rumah lebih mudah mencari harga rumah yang tepat dengan tahun yang sesuaui. Aplikasi ini dibuat oleh seorang mahasiswa Institut Teknologi Garut yang keakuratannya telah diuji dan diyakini sangat akurat",
+                                  "Penangkapan Bandar Sabu di Terbanggi Besar Diwarnai Penyerangan dari Warga, 7 Pelaku Diciduk.",
                                   maxLines: 3,
                                 ),
                               ),

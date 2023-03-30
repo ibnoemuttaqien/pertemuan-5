@@ -75,7 +75,7 @@ class _NewsDetailScreenState extends State<NewsDetailScreen> {
             height: 400,
             width: double.infinity,
             child: Image.network(
-              "assets/rumah.jpg",
+              "https://i.postimg.cc/sfT43SwV/narkoba.jpg",
               fit: BoxFit.cover,
             ),
           ),
@@ -90,7 +90,7 @@ class _NewsDetailScreenState extends State<NewsDetailScreen> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     const Text(
-                      "Seorang Mahasiswa Berhasil Membuat Aplikasi Prediksi",
+                      "Jajaran Polres Lampung Tengah membekuk bandar narkoba di Kampung Terbanggi Besar, Kecamatan Terbanggi Besar, Lampung Tengah, berikut sejumlah warga yang melakukan penghadangan dan penyerangan kepada petugas saat proses penangkapan dilakukan. Total 7 warga yang terdiri dari bandar narkoba dan warga setempat diamankan.",
                       style:
                           TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                     ),

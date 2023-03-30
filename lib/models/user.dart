@@ -40,10 +40,10 @@ class User {
   factory User.dummy() {
     return User(
       id: 0001,
-      name: "Asri Indah Pertiwi",
-      userName: "asrirri",
-      email: "2006111@it.ac.id",
-      profileImage: "profil.jpg",
+      name: "Nizar Buchori",
+      userName: "ibnoemuttaqien",
+      email: "2006158@it.ac.id",
+      profileImage: "https://i.postimg.cc/zfXsLY9L/20210715173725-IMG-0858.jpg",
     );
   }
 }

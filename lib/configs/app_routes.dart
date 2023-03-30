@@ -32,10 +32,10 @@ class AppRoutes {
     } else {
       user = User(
         id: 0001,
-        name: "Asri Indah Pertiwi",
-        userName: "rriasri",
-        email: "2006111@itg.ac.id",
-        profileImage: "assets/profil.jpg",
+        name: "Nizar Buchori",
+        userName: "ibnoemuttaqien",
+        email: "2006158@itg.ac.id",
+        profileImage: "https://i.postimg.cc/zfXsLY9L/20210715173725-IMG-0858.jpg",
       );
     }
     return CustomTransitionPage(
